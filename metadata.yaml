@@ -1,0 +1,39 @@
+_repo: The-Negro-in-Literature-and-Art-in-the-United-States_35063
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brawley, Benjamin Griffith
+    alias: Brawley, B. G. (Benjamin Griffith)
+    birthdate: 1882
+    deathdate: 1939
+    gutenberg_agent_id: '4226'
+    url: http://www.gutenberg.org/2009/agents/4226
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Griffith_Brawley
+description: ''
+gutenberg_issued: '2011-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35063'
+  lccn: '21022322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans in literature'
+- !lcsh 'African Americans -- Intellectual life'
+- !lcsh 'African American artists'
+- !lcsh 'African American arts'
+- !lcc 'E151'
+- !lcsh 'American literature -- African American authors -- History and criticism'
+- !lcc 'PS'
+tableOfContents: 'The Negro genius -- Phillis Wheatley -- Paul Laurence Dunbar --
+  Charles W. Chesnutt -- W.E. Burghardt Du Bois -- William Stanley Braithwaite --
+  Other writers -- Orators: Douglass and Washington -- The stage -- Painters: Henry
+  O. Tanner -- Sculptors: Meta Warrick Fuller -- Music -- General progress, 1918-1921
+  -- Charles S. Gilpin -- Appendix: The Negro in American fiction. Study of bibliography.'
+title: The Negro in Literature and Art in the United States
+url: http://www.gutenberg.org/ebooks/35063
